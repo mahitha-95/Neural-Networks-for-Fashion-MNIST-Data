@@ -1,2 +1,2 @@
 # Neural-Networks-for-Fashion-MNIST-Data
-In this project, we compared the performances of a single-layered Neural Network, a multi-layered Neural Network and a Convolutional Neural Network on the Fashion MNIST Dataset
+Neural Networks are a set of algorithms, modeled after the human brain and able to recognize patterns. Sensory data is interpreted through labeling, clustering raw input or perception. The patterns are numerical and contained in vectors and all real-world data such as images, sounds, text or time series must be converted into vectors. In this project, we compared the performances of a single-layered Neural Network, a multi-layered Neural Network and a Convolutional Neural Network on the Fashion MNIST Dataset
